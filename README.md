@@ -7,5 +7,5 @@ W3webd.com includes "Neon Icons Library". ICONS LIBRARY. Collection of free icon
 w3webd has "Neon UI" - a UI Component Library for documentation creation. It has the components to create documentation for your product rapidly. 
 
 Bug Tracker:
-Fern Icons - Bug Tracker
+Neon Icons Library - Bug Tracker
 https://github.com/users/grsmelb/projects/4
