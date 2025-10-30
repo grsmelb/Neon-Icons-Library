@@ -12,5 +12,7 @@ Bug Tracker:
 Neon Icons Library - Bug Tracker
 https://github.com/users/grsmelb/projects/4
 
-Feel free to contact us using mail or online contact form:
+Feel free to contact us using mail or online contact form. 
+
+Please find the details of both at:
 https://www.w3webd.com/dist/pages/main/contact.html
