@@ -11,3 +11,6 @@ w3webd.com has articles that are helpful for tech web development.
 Bug Tracker:
 Neon Icons Library - Bug Tracker
 https://github.com/users/grsmelb/projects/4
+
+Feel free to caontact us using mail or online contact form:
+https://www.w3webd.com/dist/pages/main/contact.html
